@@ -85,9 +85,9 @@ public class WhoAmI {
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEDEBE&show_icons=true&count_private=true&theme=github_dark&v=1">
-<img src="https://streak-stats.demolab.com/?user=SEDEBE&theme=blueberry_duo&v=1"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEDEBE&layout=compact&theme=github_dark&v=1"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=SEDEBE&show_icons=true&theme=github_dark"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SEDEBE&layout=compact&theme=github_dark"/>
+<img src="https://img.shields.io/github/followers/SEDEBE?label=Followers&style=social"/>
 
 ---
 
