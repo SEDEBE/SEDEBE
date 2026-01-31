@@ -55,7 +55,6 @@ public class WhoAmI {
         "Despliegue, seguridad y monitorización de servicios"
     };
 
-    String fun_fact = "Me gusta mantener la documentación y los roadmaps siempre actualizados.";
 
     String[] hobbies = {
         "Programación",
