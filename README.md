@@ -1,5 +1,12 @@
 ![Github Banner](https://github.com/SEDEBE/SEDEBE/blob/main/banner.png)
 
+<h1 align="center">Alejandro Cordoba Perez</h1>
+<p align="center">
+  <strong>Software Developer</strong>
+</p>
+
+---
+
 ## Who am I?
 
 ```java
@@ -71,15 +78,16 @@ public class WhoAmI {
     private void ImproveAsDeveloper() {}
     private void BuildSolidPortfolio() {}
 }
+
 ```
 
 ---
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEDEBE&show_icons=true&count_private=true&theme=github_dark">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEDEBE&theme=blueberry_duo"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEDEBE&layout=compact&theme=github_dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SEDEBE&show_icons=true&count_private=true&theme=github_dark&v=1">
+<img src="https://streak-stats.demolab.com/?user=SEDEBE&theme=blueberry_duo&v=1"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEDEBE&layout=compact&theme=github_dark&v=1"/>
 
 ---
 
